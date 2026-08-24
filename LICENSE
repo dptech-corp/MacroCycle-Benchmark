@@ -1,0 +1,36 @@
+MacroCycle Dataset licensing notice
+=====================================
+
+Benchmark compilation, curation, annotations, index, documentation, and
+original visual material
+----------------------------------------------
+
+Copyright (c) 2026 MacroCycle Benchmark contributors.
+
+These materials are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You may share and adapt the material for any purpose, including commercially,
+provided that appropriate credit is given, a link to the license is supplied,
+and changes are indicated. The full legal code is available at:
+
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+PDB- and CCD-derived structural data
+------------------------------------
+
+Structural data derived from the Protein Data Bank archive and RCSB PDB APIs
+remain subject to the wwPDB/RCSB PDB usage policy. PDB archive data are made
+available under the CC0 1.0 Universal Public Domain Dedication. Users are
+encouraged to attribute the original structure authors and the RCSB PDB.
+
+https://www.rcsb.org/pages/usage-policy
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Disclaimer
+----------
+
+The benchmark is provided as-is and without warranties of any kind. The
+maintainers are not liable for claims, damages, or other liability arising from
+its use. References to external resources do not alter the terms applied by
+their respective providers.

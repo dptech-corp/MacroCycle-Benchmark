@@ -1,0 +1,113 @@
+6dpz__Ligand_phospholipids_H7D_A_401
+     RDKit          3D
+
+ 20 21  0  0  1  0  0  0  0  0999 V2000
+   19.7420    6.3510  -24.9230 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8220    6.6190  -22.6800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7980    6.7660  -22.0370 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6360    7.7920  -23.1530 C   0  0  2  0  0  0  0  0  0  0  0  0
+   22.4290    5.5360  -28.1630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.2160    6.8090  -27.8810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7100    7.3100  -26.5350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8300    9.0650  -22.9050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6960   10.2700  -23.2470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1250   11.1230  -24.3800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4540   10.3630  -25.5170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3590    9.3780  -26.2490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1200    7.9730  -25.6990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1490    7.6700  -24.6120 C   0  0  2  0  0  0  0  0  0  0  0  0
+   21.6440    5.2420  -26.8900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.2690    6.0830  -25.8590 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2530    5.4040  -22.9170 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5470    5.3420  -23.6090 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6530    7.6580  -24.0380 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3240    6.3680  -24.5770 S   0  0  0  0  0  0  0  0  0  0  0  0
+ 14  1  1  6
+  1 20  1  0
+  4  2  1  6
+  2 17  2  0
+  2  3  1  0
+  4 14  1  0
+  4  8  1  0
+  5  6  1  0
+  5 15  1  0
+  6  7  1  0
+  7 16  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 15 16  1  0
+ 16 20  1  0
+ 18 20  2  0
+ 19 20  2  0
+M  END
+>  <model_server_result.job_id>  (1) 
+YcnFqAD0A5QmnA4OXbFTUw
+
+>  <model_server_result.datetime_utc>  (1) 
+2026-08-14 02:56:15
+
+>  <model_server_result.server_version>  (1) 
+0.9.13
+
+>  <model_server_result.query_name>  (1) 
+ligand
+
+>  <model_server_result.source_id>  (1) 
+pdb-bcif
+
+>  <model_server_result.entry_id>  (1) 
+6dpz
+
+>  <model_server_params.name>  (1) 
+atom_site
+
+>  <model_server_params.value>  (1) 
+{"auth_asym_id":"A","auth_seq_id":401}
+
+>  <model_server_stats.io_time_ms>  (1) 
+33
+
+>  <model_server_stats.parse_time_ms>  (1) 
+5
+
+>  <model_server_stats.create_model_time_ms>  (1) 
+4
+
+>  <model_server_stats.query_time_ms>  (1) 
+184
+
+>  <model_server_stats.encode_time_ms>  (1) 
+0
+
+>  <model_server_stats.element_count>  (1) 
+20
+
+>  <SMILES_neutral>  (1) 
+O=C(O)C1CCCCCCC1NS(=O)(=O)N1CCCC1
+
+>  <protonation_pH>  (1) 
+7.4
+
+>  <protonated>  (1) 
+False
+
+>  <has_explicit_h>  (1) 
+False
+
+>  <bond_source>  (1) 
+ccd
+
+>  <coordinate_source>  (1) 
+RCSB ModelServer chemical component instance SDF
+
+>  <coordinate_source_url>  (1) 
+https://models.rcsb.org/v1/6dpz/ligand?auth_asym_id=A&auth_seq_id=401&encoding=sdf
+
+>  <ccd_id>  (1) 
+H7D
+
+$$$$

@@ -1,0 +1,130 @@
+26ay__Ligand_carbohydrate_A1E80_B_402
+     RDKit          3D
+
+ 28 30  0  0  1  0  0  0  0  0999 V2000
+  -74.0704  -20.5943    0.6328 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -75.4911  -21.1561    0.1942 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -73.4041  -19.4007   -0.0858 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -76.0655  -20.9478   -1.2407 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -73.0008  -19.7897   -1.5123 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -76.3999  -19.4749   -1.5497 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -74.1393  -20.1456    2.0922 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -76.5835  -20.6895    1.1778 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -73.9663  -19.4210   -2.6287 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -75.3230  -18.6686   -2.2623 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -71.6693  -20.5509   -1.7660 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -77.7727  -18.8457   -1.1349 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -73.5638  -19.8623   -4.0734 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -75.6529  -17.1600   -2.5521 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -72.2443  -20.6218   -4.3485 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -77.0118  -16.5144   -2.1430 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -71.2905  -20.9579   -3.1910 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -78.0880  -17.3670   -1.4217 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -75.2781  -20.6593   -5.4140 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -74.1444  -15.4080   -2.3011 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -72.1549  -22.2944   -6.0957 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -77.3310  -14.3003   -1.3013 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -74.4148  -19.5831   -5.1453 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -74.7147  -16.3415   -3.1854 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -71.8760  -20.9869   -5.6628 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -77.2666  -15.1520   -2.4235 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -70.0922  -21.6416   -3.4381 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -79.3351  -16.8288   -1.0333 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  7  1  1
+  2  4  1  0
+  2  8  1  1
+  3  5  1  0
+  4  6  1  0
+  5  9  2  0
+  5 11  1  0
+  6 10  2  0
+  6 12  1  0
+  9 10  1  0
+  9 13  1  0
+ 10 14  1  0
+ 11 17  2  0
+ 12 18  2  0
+ 13 23  1  0
+ 13 15  2  0
+ 14 24  1  0
+ 14 16  2  0
+ 15 25  1  0
+ 15 17  1  0
+ 16 26  1  0
+ 16 18  1  0
+ 17 27  1  0
+ 18 28  1  0
+ 19 23  1  0
+ 20 24  1  0
+ 21 25  1  0
+ 22 26  1  0
+M  END
+>  <model_server_result.job_id>  (1) 
+hKoQiRagk_hCt_SGab_M-A
+
+>  <model_server_result.datetime_utc>  (1) 
+2026-08-14 02:56:16
+
+>  <model_server_result.server_version>  (1) 
+0.9.13
+
+>  <model_server_result.query_name>  (1) 
+ligand
+
+>  <model_server_result.source_id>  (1) 
+pdb-bcif
+
+>  <model_server_result.entry_id>  (1) 
+26ay
+
+>  <model_server_params.name>  (1) 
+atom_site
+
+>  <model_server_params.value>  (1) 
+{"auth_asym_id":"B","auth_seq_id":402}
+
+>  <model_server_stats.io_time_ms>  (1) 
+17
+
+>  <model_server_stats.parse_time_ms>  (1) 
+5
+
+>  <model_server_stats.create_model_time_ms>  (1) 
+3
+
+>  <model_server_stats.query_time_ms>  (1) 
+172
+
+>  <model_server_stats.encode_time_ms>  (1) 
+0
+
+>  <model_server_stats.element_count>  (1) 
+28
+
+>  <SMILES_neutral>  (1) 
+COc1c(O)cc2c(c1OC)-c1c(cc(O)c(OC)c1OC)CC(C)C(C)C2
+
+>  <protonation_pH>  (1) 
+7.4
+
+>  <protonated>  (1) 
+False
+
+>  <has_explicit_h>  (1) 
+False
+
+>  <bond_source>  (1) 
+ccd
+
+>  <coordinate_source>  (1) 
+RCSB ModelServer chemical component instance SDF
+
+>  <coordinate_source_url>  (1) 
+https://models.rcsb.org/v1/26ay/ligand?auth_asym_id=B&auth_seq_id=402&encoding=sdf
+
+>  <ccd_id>  (1) 
+A1E80
+
+$$$$

@@ -1,0 +1,134 @@
+8b25__Ligand_peptide_OSO_A_501
+     RDKit          3D
+
+ 29 32  0  0  1  0  0  0  0  0999 V2000
+   70.6552   28.6480   84.6583 C   0  0  0  0  0  0  0  0  0  0  0  0
+   71.0900   30.1006   84.6758 C   0  0  0  0  0  0  0  0  0  0  0  0
+   70.0088   30.8836   85.6209 C   0  0  0  0  0  0  0  0  0  0  0  0
+   69.9282   32.2769   85.4280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   69.5026   33.8694   87.1968 C   0  0  0  0  0  0  0  0  0  0  0  0
+   71.8050   33.2959   87.8440 C   0  0  0  0  0  0  0  0  0  0  0  0
+   72.3522   31.9512   87.5847 C   0  0  0  0  0  0  0  0  0  0  0  0
+   75.0337   33.9839   86.3612 C   0  0  0  0  0  0  0  0  0  0  0  0
+   75.1223   35.3895   86.3307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   74.0628   36.2261   86.8374 C   0  0  0  0  0  0  0  0  0  0  0  0
+   72.8905   35.6240   87.3576 C   0  0  0  0  0  0  0  0  0  0  0  0
+   72.8032   34.2190   87.4016 C   0  0  0  0  0  0  0  0  0  0  0  0
+   71.5729   30.5524   87.8874 C   0  0  2  0  0  0  0  0  0  0  0  0
+   72.6620   29.5150   87.4896 C   0  0  0  0  0  0  0  0  0  0  0  0
+   72.4483   27.5133   88.7234 C   0  0  0  0  0  0  0  0  0  0  0  0
+   71.8617   26.1085   89.0256 C   0  0  0  0  0  0  0  0  0  0  0  0
+   70.9524   29.3340   91.2757 C   0  0  0  0  0  0  0  0  0  0  0  0
+   70.1718   30.3465   87.0644 C   0  0  1  0  0  0  0  0  0  0  0  0
+   68.9557   30.9793   87.7780 C   0  0  0  0  0  0  0  0  0  0  0  0
+   68.1531   31.9571   86.8613 C   0  0  0  0  0  0  0  0  0  0  0  0
+   71.4141   30.5235   89.3486 C   0  0  0  0  0  0  0  0  0  0  0  0
+   70.3252   33.5932   88.3785 C   0  0  0  0  0  0  0  0  0  0  0  0
+   73.9063   33.3880   86.8971 C   0  0  0  0  0  0  0  0  0  0  0  0
+   69.0539   32.9111   86.3376 N   0  0  2  0  0  0  0  0  0  0  0  0
+   73.5646   31.9923   87.0745 N   0  0  0  0  0  0  0  0  0  0  0  0
+   72.0714   28.2347   87.5794 O   0  0  0  0  0  0  0  0  0  0  0  0
+   73.2283   28.0410   89.4318 O   0  0  0  0  0  0  0  0  0  0  0  0
+   72.1249   31.1824   90.0573 O   0  0  0  0  0  0  0  0  0  0  0  0
+   70.4697   29.6963   89.9844 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3 18  1  0
+  3  4  1  0
+ 24  4  1  1
+  5 22  1  0
+  5 24  1  0
+  6 22  1  0
+  6  7  2  0
+  6 12  1  0
+  7 13  1  0
+  7 25  1  0
+  8 23  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 23  1  0
+ 13 21  1  0
+ 13 14  1  6
+ 13 18  1  0
+ 14 26  1  0
+ 15 27  2  0
+ 15 26  1  0
+ 15 16  1  0
+ 17 29  1  0
+ 18 19  1  1
+ 19 20  1  0
+ 20 24  1  0
+ 21 29  1  0
+ 21 28  2  0
+ 23 25  1  0
+M  CHG  1  24   1
+M  END
+>  <model_server_result.job_id>  (1) 
+wL_wTxTr41FSE1UKDOjHxw
+
+>  <model_server_result.datetime_utc>  (1) 
+2026-08-14 02:56:16
+
+>  <model_server_result.server_version>  (1) 
+0.9.13
+
+>  <model_server_result.query_name>  (1) 
+ligand
+
+>  <model_server_result.source_id>  (1) 
+pdb-bcif
+
+>  <model_server_result.entry_id>  (1) 
+8b25
+
+>  <model_server_params.name>  (1) 
+atom_site
+
+>  <model_server_params.value>  (1) 
+{"auth_asym_id":"A","auth_seq_id":501}
+
+>  <model_server_stats.io_time_ms>  (1) 
+21
+
+>  <model_server_stats.parse_time_ms>  (1) 
+7
+
+>  <model_server_stats.create_model_time_ms>  (1) 
+5
+
+>  <model_server_stats.query_time_ms>  (1) 
+178
+
+>  <model_server_stats.encode_time_ms>  (1) 
+0
+
+>  <model_server_stats.element_count>  (1) 
+29
+
+>  <SMILES_neutral>  (1) 
+CC=C1C[NH+]2CCc3c([nH]c4ccccc34)C(COC(C)=O)(C(=O)OC)C1CC2
+
+>  <protonation_pH>  (1) 
+7.4
+
+>  <protonated>  (1) 
+False
+
+>  <has_explicit_h>  (1) 
+False
+
+>  <bond_source>  (1) 
+ccd
+
+>  <coordinate_source>  (1) 
+RCSB ModelServer chemical component instance SDF
+
+>  <coordinate_source_url>  (1) 
+https://models.rcsb.org/v1/8b25/ligand?auth_asym_id=A&auth_seq_id=501&encoding=sdf
+
+>  <ccd_id>  (1) 
+OSO
+
+$$$$

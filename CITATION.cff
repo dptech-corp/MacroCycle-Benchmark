@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite this version and the original PDB structure publications."
+title: "MacroCycle Dataset: From PDB Structures to a Computation-Ready Benchmark"
+type: dataset
+version: 0.0.0
+date-released: 2026-08-21
+authors:
+  - name: "MacroCycle Benchmark contributors"
+license: CC-BY-4.0
+abstract: >-
+  A curated benchmark of 1,861 experimentally determined
+  protein-macrocycle binding modes spanning 1,570 unique unprotonated
+  macrocycle structures, with audited reference ligand bond orders,
+  computationally prepared and audited pH 7.4 protonated forms, protein
+  structures, SMILES, and metadata.
+keywords:
+  - macrocycle
+  - cyclic peptide
+  - conformational sampling
+  - molecular docking
+  - structural bioinformatics
+  - benchmark dataset

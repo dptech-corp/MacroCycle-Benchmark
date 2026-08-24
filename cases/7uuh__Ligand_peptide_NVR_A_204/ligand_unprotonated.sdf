@@ -1,0 +1,137 @@
+7uuh__Ligand_peptide_NVR_A_204
+     RDKit          3D
+
+ 31 34  0  0  0  0  0  0  0  0999 V2000
+   30.7344   -2.7230   15.0955 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3866   -3.4383   13.9528 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.0060   -2.9697   12.5046 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.5611   -3.8770   11.4100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5203   -4.8385   10.2416 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.2873   -5.4584    9.5893 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.7412   -4.6301   10.5689 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.0678   -4.8315   16.7659 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.5597   -7.1867   16.2295 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8091   -8.9246   13.4274 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.4924   -7.3800   12.7184 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.4938   -6.7066   11.3317 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.5011   -6.2047   10.2624 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.2070   -7.9974   14.3121 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4565   -5.1832   17.9598 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.1931   -3.2577   16.2735 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1878   -8.3040   15.2499 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.8136   -9.6680   15.2222 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3927  -10.6183   14.3485 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.3929  -10.2686   13.4406 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.0405   -7.2562   12.4687 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.3793   -6.6261   18.3391 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.9521   -4.0132   11.2223 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6683   -5.5806    9.4026 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.6069   -5.8848   15.9372 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9444   -7.5984   17.4445 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7181   -2.4324   17.0422 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7953   -8.5960   12.5226 O   0  0  0  0  0  0  0  0  0  0  0  0
+   34.8943   -4.9567   10.0639 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.9105   -4.3209   18.8345 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.8600   -7.0578   19.3751 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  7  1  0
+  4 23  2  0
+  5 24  2  0
+  5 23  1  0
+  5 29  1  0
+  6  7  2  0
+  6 24  1  0
+  8 15  2  0
+  8 16  1  0
+  8 25  1  0
+  9 26  1  0
+  9 25  2  0
+  9 17  1  0
+ 10 14  1  0
+ 10 20  2  0
+ 10 28  1  0
+ 11 21  1  0
+ 11 28  1  0
+ 12 21  2  0
+ 12 13  1  0
+ 13 29  1  0
+ 14 17  2  0
+ 15 30  1  0
+ 15 22  1  0
+ 16 27  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 22 31  2  0
+ 22 26  1  0
+M  END
+>  <model_server_result.job_id>  (1) 
+a1ITs5Nms_pOa5qF6iH-TQ
+
+>  <model_server_result.datetime_utc>  (1) 
+2026-08-14 02:56:14
+
+>  <model_server_result.server_version>  (1) 
+0.9.13
+
+>  <model_server_result.query_name>  (1) 
+ligand
+
+>  <model_server_result.source_id>  (1) 
+pdb-bcif
+
+>  <model_server_result.entry_id>  (1) 
+7uuh
+
+>  <model_server_params.name>  (1) 
+atom_site
+
+>  <model_server_params.value>  (1) 
+{"auth_asym_id":"A","auth_seq_id":204}
+
+>  <model_server_stats.io_time_ms>  (1) 
+13
+
+>  <model_server_stats.parse_time_ms>  (1) 
+6
+
+>  <model_server_stats.create_model_time_ms>  (1) 
+2
+
+>  <model_server_stats.query_time_ms>  (1) 
+195
+
+>  <model_server_stats.encode_time_ms>  (1) 
+0
+
+>  <model_server_stats.element_count>  (1) 
+31
+
+>  <SMILES_neutral>  (1) 
+O=C1NCCc2cccc(c2)OCC=CCOc2cccc(c2)-c2nc1c(O)c(=O)[nH]2
+
+>  <protonation_pH>  (1) 
+7.4
+
+>  <protonated>  (1) 
+False
+
+>  <has_explicit_h>  (1) 
+False
+
+>  <bond_source>  (1) 
+ccd
+
+>  <coordinate_source>  (1) 
+RCSB ModelServer chemical component instance SDF
+
+>  <coordinate_source_url>  (1) 
+https://models.rcsb.org/v1/7uuh/ligand?auth_asym_id=A&auth_seq_id=204&encoding=sdf
+
+>  <ccd_id>  (1) 
+NVR
+
+$$$$
