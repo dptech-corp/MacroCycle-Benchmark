@@ -65,9 +65,17 @@ machine-specific paths.
 | `unprotonated_isomeric_smiles` | Isomeric SMILES derived from the curated reference ligand. |
 | `protonated_isomeric_smiles` | Isomeric SMILES for the computationally prepared protonated form. |
 | `primary_ring_size` | Number of atoms in the primary macrocycle. Ordinary small rings are not counted as macrocycles. |
+| `pdb_release_date` | Initial public release date of the source PDB entry (`YYYY-MM-DD`). |
+| `ring_size_bin` | Primary-ring size group: `<10` (8–9 atoms), `10–14`, `15–19`, `20–24`, `25–29`, `30–34`, or `35–40`. |
+| `sequence_set` | Membership of the curated 628-case sequence-input candidate set: `1` if included, otherwise `0`. |
+| `standard_amino_acid_subset` | Membership of the 74-case standard-amino-acid subset used in the manuscript's paired SMILES/sequence analysis: `1` if included, otherwise `0`. |
 
 Missing source metadata are represented by empty CSV fields rather than
 invented values.
+
+The two subset flags contain only `0` or `1`. `sequence_set = 1` identifies accepted sequence-input candidates; it does not require completed model predictions or inclusion in a paired evaluation. The manuscript's paired sets contain 567 cases for Boltz-2 and 510 for RoseTTAFold 3 (572 distinct cases across the two models). The 74 cases marked by `standard_amino_acid_subset = 1` are all within `sequence_set`. A value of `0` means that the case was not included in the specified set; it is not a general chemical classification or proof that sequence representation is impossible.
+
+The index retains the full 1,861-case release. The six-model common evaluation cohort in the manuscript contains 1,772 of these cases. The subset labels are fixed to the manuscript analysis and are not inferred from ligand names.
 
 ## Dataset construction
 
@@ -83,7 +91,7 @@ Inspect the index:
 import pandas as pd
 
 index = pd.read_csv("benchmark_index.csv")
-print(index.shape)                 # (1861, 8)
+print(index.shape)                 # (1861, 12)
 print(index.primary_ring_size.describe())
 ```
 
